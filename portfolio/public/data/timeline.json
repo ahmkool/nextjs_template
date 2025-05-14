@@ -1,25 +1,25 @@
 {
     "data": [
         {
-            "title": "Fullstack Developer",
-            "company": "Freelancing",
-            "tasks": "Building modern web applications with API integration such as landingpages and dashboards",
-            "tags": ["NextJS", "React", "Typescript", "REST", "GraphQL"],
-            "year": "2024"
-        },
-        {
-            "title": "Fontend Engineer",
-            "company": "Apple",
-            "tasks": "Designed and implemented responsive user interfaces for various Apple products, ensuring seamless user experiences across devices.",
-            "tags": ["React", "Typescript", "Redux", "GraphQL"],
+            "title": "Software Engineer",
+            "company": "Google",
+            "tasks": "Worked on multiple projects in Google Shopping.",
+            "tags": ["C++", "Kotlin", "Typescript"],
             "year": "2022"
         },
         {
-            "title": "Backend Developer",
-            "company": "Microsoft",
+            "title": "Software Engineer",
+            "company": "Amazon",
+            "tasks": "Developed tech for launching Amazon faster in new countries.",
+            "tags": ["Java", "Typescript", "React", "AWS"],
+            "year": "2019"
+        },
+        {
+            "title": "Fullstack Developer",
+            "company": "Lateral Studio",
             "tasks": "Developed scalable backend services for Microsoft's cloud platform, enabling efficient data processing and storage for enterprise applications.",
-            "tags": ["Java EE", "Springboot", "REST"],
-            "year": "2020"
+            "tags": ["MeteorJS", "React", "Javascript"],
+            "year": "2018"
         }
     ]
 }

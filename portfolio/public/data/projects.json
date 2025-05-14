@@ -1,25 +1,25 @@
 {
     "data": [
         {
-            "title": "Portfolio Website",
-            "image": "/images/PortfolioWebsite.webp",
-            "link": "",
-            "tags": ["Next.js", "Javascript", "Redux", "MUI"],
-            "text": "A portfolio website with responsive design that highlights professional work and services"
+            "title": "Shader Academy",
+            "image": "/images/shaderacademy.png",
+            "link": "https://shaderacademy.com/",
+            "tags": ["WebGL", "React", "Typescript", "Node", "Tailwind CSS"],
+            "text": "A platform to learn about shaders and computer graphics, with fun exercises."
         },
         {
-            "title": "Trading App",
-            "image": "/images/TradingApp.webp",
-            "link": "",
-            "tags": ["Next.js", "Typescript", "Tailwind CSS"],
-            "text": "A single-page application with responsive design that highlights professional work"
+            "title": "Flameplan",
+            "image": "/images/Flameplan.png",
+            "link": "https://flameplan.vercel.app/",
+            "tags": ["Typescript", "React"],
+            "text": "A long-term financial planning tool that helps users plan their finances for the future."
         },
         {
-            "title": "Photo Website",
-            "image": "/images/PhotoWebsite.webp",
-            "link": "",
-            "tags": ["React.js", "Typescript", "Tailwind CSS", "Redux"],
-            "text": "A website to curate and share photos that capture life's most memorable moments."
+            "title": "Pocket Robots",
+            "image": "/images/pocket-robots.jpg",
+            "link": "https://store.steampowered.com/app/2939940/Pocket_Robots/",
+            "tags": ["Godot", "C#", "React", "Typescript"],
+            "text": "A game for learning to program. Program your own robot to fight in a 2D fighting game."
         }
     ]
 }

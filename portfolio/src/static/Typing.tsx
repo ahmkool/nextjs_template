@@ -18,7 +18,7 @@ function Typing (){
       wrapper="span"
       speed={10}
       preRenderFirstString={true}
-      style={{ marginLeft: '5px', fontSize: '1em', textAlign: 'left', color: "#84ffff", fontWeight: 'bold', display: 'inline-block', width: '38.5%'}}
+      style={{ marginLeft: '5px', fontSize: '1em', textAlign: 'left', color: "#F9A825", fontWeight: 'bold', display: 'inline-block', width: '38.5%'}}
       repeat={1}
     />
   );
