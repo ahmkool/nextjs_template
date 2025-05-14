@@ -10,5 +10,6 @@ export interface GlobalState {
 export interface ServiceData {
   hl: string;
   desc: string;
+  footer: string;
   img: string;
 }

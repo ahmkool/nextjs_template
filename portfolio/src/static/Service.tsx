@@ -5,6 +5,7 @@ function Service (serviceData : ServiceData) {
         <img className="w-2/3 h-auto self-center p-14" src={serviceData.img} alt="transition" />
         <p className="text-xl font-bold">{serviceData.hl}</p>
         <p className="mt-3 text-lg">{serviceData.desc}</p>
+        <p className="mt-3 text-lg italic">{serviceData.footer}</p>
     </div>
 }
 
