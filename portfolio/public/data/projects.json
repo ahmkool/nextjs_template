@@ -9,7 +9,7 @@
         },
         {
             "title": "Flameplan",
-            "image": "/images/Flameplan.png",
+            "image": "/images/flameplan.png",
             "link": "https://flameplan.vercel.app/",
             "tags": ["Typescript", "React"],
             "text": "A long-term financial planning tool that helps users plan their finances for the future."
