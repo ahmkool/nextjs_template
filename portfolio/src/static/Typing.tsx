@@ -6,14 +6,11 @@ function Typing (){
     <TypeAnimation
       sequence={[
         // Same substring at the start will only be typed out once, initially
-        'Next.js',
-        500, 
         'Typescript',
         500,
-        'Tailwind CSS',
+        'React',
         500,
-        'React.js',
-        500
+        'Node'
       ]}
       wrapper="span"
       speed={10}
